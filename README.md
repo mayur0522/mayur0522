@@ -48,6 +48,13 @@
 
 ---
 
+<h3 align="left">🔗 Connect with me on LinkedIn</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayur0522/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur0522&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mayur0522" />
