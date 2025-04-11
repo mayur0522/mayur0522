@@ -17,15 +17,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur0522&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=mayur0522&theme=gruvbox" alt="GitHub Streak" />
-</p>
 
-</p>
 
 ---
 
@@ -57,5 +49,14 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox" alt="Top Languages" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=your-github-username&theme=gruvbox" alt="GitHub Streak" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur0522&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mayur0522" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur0522&show_icons=true&locale=en&theme=gruvbox" alt="mayur0522" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur0522&theme=gruvbox" alt="mayur0522" />
+</p>
