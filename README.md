@@ -17,9 +17,14 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mayurbhosale2299" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-bhosale" height="30" width="40" /></a>
+<h3 align="left">📊 GitHub Stats</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur0522&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=mayur0522&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
 </p>
 
 ---
