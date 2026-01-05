@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhosale</h1>
-<h3 align="center">AWS Certified Solutions Architect | DevOps Engineer from India</h3>
+<h3 align="center">AWS Certified Solutions Architect And GCP Certified Cloud Engineer | DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-bhosale&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-bhosale" /> </p>
 
-- 🧑‍💻 **AWS Certified Solutions Architect – Associate**
+- 🧑‍💻 **AWS Certified Solutions Architect – Associate AND GCP Certified Cloud Engineer**
   
-- 👨‍💻 I’m aspiring as a **DevOps Engineer**
+- 👨‍💻 Working as a **DevOps Engineer**
 
 - 🧠 I’m skilled in **Cloud Infrastructure, Automation, CI/CD, Monitoring & Containerization**
 
