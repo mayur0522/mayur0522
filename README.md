@@ -55,15 +55,11 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur0522&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="mayur0522" />
-</p>
+## 📊 GitHub Stats
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur0522&show_icons=true&locale=en&theme=gruvbox" alt="mayur0522" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur0522&layout=compact&theme=gruvbox)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur0522&theme=gruvbox" alt="mayur0522" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayur0522&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayur0522&theme=gruvbox)
+
