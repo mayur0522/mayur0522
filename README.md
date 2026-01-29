@@ -13,7 +13,7 @@ DevOps Engineer | AWS Certified Solutions Architect | GCP Certified Cloud Engine
 
 - 🧑‍💻 **AWS Certified Solutions Architect – Associate**
 - ☁️ **GCP Certified Associate Cloud Engineer**
-- 👨‍💻 Working as a **DevOps Engineer (2–4 yrs experience)**
+- 👨‍💻 Working as a **DevOps Engineer ( 1+ yrs experience)**
 - 🔧 Strong hands-on with **Cloud Infrastructure, Kubernetes, CI/CD, Monitoring & Streaming Systems**
 - 🧠 Currently deep-diving into **Kafka, Observability, GitOps & AIOps concepts**
 - ⚡ Fun fact: I automate first, document later 😄
