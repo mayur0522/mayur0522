@@ -1,59 +1,69 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhosale</h1>
-<h3 align="center">AWS Certified Solutions Architect And GCP Certified Cloud Engineer | DevOps Engineer from India</h3>
+<h3 align="center">
+DevOps Engineer | AWS Certified Solutions Architect | GCP Certified Cloud Engineer | Cloud & Kubernetes Specialist
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-bhosale&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-bhosale" /> </p>
-
-- 🧑‍💻 **AWS Certified Solutions Architect – Associate AND GCP Certified Cloud Engineer**
-  
-- 👨‍💻 Working as a **DevOps Engineer**
-
-- 🧠 I’m skilled in **Cloud Infrastructure, Automation, CI/CD, Monitoring & Containerization**
-
-- 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, and DevSecOps**
-
-- 📫 Reach me at **mayurbhosalen9@gmail.com** <!-- Replace with actual email -->
-
-- ⚡ Fun fact: I'm always automating something!
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mayur0522&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-bhosale" />
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
+- 🧑‍💻 **AWS Certified Solutions Architect – Associate**
+- ☁️ **GCP Certified Associate Cloud Engineer**
+- 👨‍💻 Working as a **DevOps Engineer (2–4 yrs experience)**
+- 🔧 Strong hands-on with **Cloud Infrastructure, Kubernetes, CI/CD, Monitoring & Streaming Systems**
+- 🧠 Currently deep-diving into **Kafka, Observability, GitOps & AIOps concepts**
+- ⚡ Fun fact: I automate first, document later 😄
+
+---
+
+## 🧠 Core Skills
+
+- **Cloud:** AWS, GCP (IAM, VPC, Compute, Storage)
+- **Containers & Orchestration:** Docker, Kubernetes, GKE, Helm
+- **CI/CD:** Jenkins, GitHub Actions, GitOps (ArgoCD – concepts)
+- **Infrastructure as Code:** Terraform, Ansible
+- **Streaming & Messaging:** Apache Kafka (Topics, Partitions, Consumer Groups, Lag, Monitoring)
+- **Monitoring & Observability:** Prometheus, Grafana, Kafka Burrow
+- **Security:** DevSecOps basics, SonarQube, Secrets management
+- **OS & Networking:** Linux, Nginx, TCP/IP basics
+- **Emerging Areas:** AIOps, Agentic AI for DevOps (learning & projects)
+
+---
+
+## 💬 Ask Me About
+
+**AWS • GCP • Terraform • Docker • Kubernetes • Kafka • Jenkins • GitHub Actions • Monitoring • DevSecOps**
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: **mayurbhosalen9@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/mayur0522](https://www.linkedin.com/in/mayur0522/)
 
 ---
 
 <h3 align="left">🚀 DevOps Tools & Technologies</h3>
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
- 
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/>
-</a>
-
-
-
-
-
- 
+  <a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+  <a href="https://helm.sh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40"/></a>
+  <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/></a>
+  <a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/></a>
+  <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://www.sonarqube.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40"/></a>
 </p>
 
 ---
-
-<h3 align="left">🔗 Connect with me on LinkedIn</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mayur0522/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
@@ -62,4 +72,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayur0522&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayur0522&theme=gruvbox)
-
