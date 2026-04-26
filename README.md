@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhosale</h1>
 <h3 align="center">
-DevOps Engineer | AWS Certified Solutions Architect | GCP Certified Cloud Engineer | Cloud & Kubernetes Specialist
+AI-Powered DevOps Engineer | Building intelligent infrastructure that monitors, heals, and scales itself | AWS Certified Solutions Architect | GCP Certified Cloud Engineer | Cloud & Kubernetes Specialist
 </h3>
 
 <p align="left">
