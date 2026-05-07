@@ -13,7 +13,7 @@ AI-Powered DevOps Engineer | Building intelligent infrastructure that monitors, 
 
 - 🧑‍💻 **AWS Certified Solutions Architect – Associate**
 - ☁️ **GCP Certified Associate Cloud Engineer**
-- 👨‍💻 Working as a **DevOps Engineer ( 1+ yrs experience)**
+- 👨‍💻 Working as a **DevOps Engineer ( 1.7 yrs experience)**
 - 🔧 Strong hands-on with **Cloud Infrastructure, Kubernetes, CI/CD, Monitoring & Streaming Systems**
 - 🧠 Currently deep-diving into **Kafka, Observability, GitOps & AIOps concepts**
 - ⚡ Fun fact: I automate first, document later 😄
