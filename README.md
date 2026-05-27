@@ -22,26 +22,25 @@ Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, 
 
 ## 🚀 Featured Projects
 
-### 🏆 [Kube-vLLM-Ops — flagship Platform](https://github.com/mayur0522)
-> Production-grade MLOps serverless LLM serving infrastructure on AWS EKS.
-- **Cost Efficiency:** Automated Knative serving + Spot GPU node groups, scaling down idle compute costs to **$0/hr**.
-- **Performance Optimization:** Integrated the vLLM engine with PagedAttention and Tensor Parallelism, **saving 40% VRAM** and doubling classic throughput.
-- **GitOps &amp; IaC:** Deployed VPC networks and OIDC accounts cleanly via modular Terraform, utilizing ArgoCD GitOps to auto-sync cluster updates.
-- **Model Versioning:** Tracked heavy 14GB model weights using DVC backed by AWS S3 remote stores.
-- **Telemetry:** Monitored real-time GPU hardware metrics (VRAM, temps) using DCGM Exporter DaemonSets and custom Grafana dashboarding.
+### 🏆 [Kube-vLLM-Ops — Flagship Platform](https://github.com/mayur0522)
+> Production-grade serverless LLM serving platform on AWS EKS with scale-to-zero cost efficiency and pagedAttention optimization.
+- **Tech Stack:** `vLLM` · `Kubernetes (EKS)` · `Knative` · `KServe` · `Terraform` · `ArgoCD` · `DVC` · `Prometheus & Grafana`
+- **Impact:** Achieved **$0/hr** idle compute costs and **40% VRAM savings**.
 
 ### 🤖 [DevOps Pipeline Failure Agent](https://github.com/cloudadvocate/devops-agent)
-> An autonomous agentic AI that automatically reads failed CI build logs, inspects codebase source files to discover bugs, diagnoses root causes, and posts actionable markdown fix recommendations to Slack.
-- **Dual Setup:** Cloud-driven Anthropic Claude API version and a 100% local, enterprise-private version running Qwen3 (14B) via Ollama with zero API cost.
-- **Robust Guardrails:** Configured dry-runs, human-in-the-loop Slack approval gates, scope limiting, and audit logs.
+> Autonomous AI Agent that reads CI build logs, inspects codebase bugs, and posts Slack fix recommendations.
+- **Tech Stack:** `Python` · `Anthropic Claude` · `Ollama (Qwen3)` · `Slack API` · `GitHub Actions`
+- **Impact:** Supports dual cloud (Claude API) and 100% private, local (zero API cost) diagnostic architectures.
 
 ### 💻 [ECOMM-AIOPS — Boutique Microservices](https://github.com/mayur0522)
-> A multi-tier boutique e-commerce microservices platform on AWS EKS, completely automated via Terraform IaC, GitHub Actions CI, and ArgoCD GitOps.
-- **Reactive AIOps:** Deployed a cluster incident diagnostic assistant named **"Kira"** powered by Amazon Bedrock agents and AWS Lambda tool-use.
-- **Observability:** Deployed Fluent Bit for log streaming and Prometheus/Grafana setups to capture microservices health metrics.
+> Boutique microservices on AWS EKS with ArgoCD GitOps and reactive AIOps diagnostics.
+- **Tech Stack:** `AWS EKS` · `Terraform` · `ArgoCD` · `Amazon Bedrock` · `Prometheus & Grafana` · `Fluent Bit`
+- **Impact:** Integrates Bedrock Agent "Kira" to autonomously diagnose cluster incidents and metrics.
 
 ### 🛡️ [tf-azure-disaster-recovery](https://github.com/mayur0522)
-> Enterprise disaster recovery framework. Designed automated cloud provisioning scripts to successfully reconstruct and recover 21+ Azure resources from absolute IaC data loss with zero downtime.
+> Enterprise disaster recovery platform ensuring high-availability configuration management.
+- **Tech Stack:** `Terraform` · `Azure Resource Manager` · `Shell Automation` · `GitHub Actions`
+- **Impact:** Recovered 21+ Azure resources from absolute IaC data loss with zero downtime.
 
 ---
 
