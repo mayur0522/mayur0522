@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhosale</h1>
 <h3 align="center">
-Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, and observable AI/LLM serving platforms on Kubernetes | AWS Certified Solutions Architect | GCP Certified Associate Cloud Engineer
+Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, and observable AI/LLM serving platforms on Kubernetes | AWS Certified Solutions Architect | GCP Certified Associate Cloud Engineer | Azure Certified Administrator
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayur0522&label=Profile%20views&color=ff3c54&style=flat-square" alt="mayur-bhosale" />
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=flat-square&logo=amazon-aws" alt="AWS SAA" />
   <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-blue?style=flat-square&logo=google-cloud" alt="GCP ACE" />
+  <img src="https://img.shields.io/badge/Azure-Administrator%20Associate-0078D4?style=flat-square&logo=microsoft-azure" alt="Azure Admin" />
 </p>
 
 ---
@@ -15,7 +16,7 @@ Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, 
 
 - 🧑💻 **Specialized MLOps &amp; DevOps Engineer (1.7+ yrs experience)** building self-healing, automated, and mathematically optimized AI/LLM serving infrastructure.
 - 🧠 Creator of **Kube-vLLM-Ops**—a flagship production-grade serverless LLM serving platform deployed on AWS EKS using Knative scale-to-zero autoscaling.
-- ☁️ Certified Architect holding both the **AWS Certified Solutions Architect – Associate** and the **Google Cloud Certified – Associate Cloud Engineer** credentials.
+- ☁️ Certified Architect holding the **AWS Certified Solutions Architect – Associate**, **Google Cloud Certified – Associate Cloud Engineer**, and **Azure Certified Administrator – Associate** credentials.
 - ⚡ **Engineering Philosophy:** Automate first, monitor everything, and decouple heavy lifters (like model weights) from core application code.
 
 ---
@@ -70,6 +71,7 @@ Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, 
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/></a>
   <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/></a>
   <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></a>
   <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/></a>
