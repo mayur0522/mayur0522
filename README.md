@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhosale</h1>
 <h3 align="center">
-Specialized MLOps &amp; DevOps Engineer | Building high-performance, automated, and observable AI/LLM serving platforms on Kubernetes | AWS Certified Solutions Architect | GCP Certified Associate Cloud Engineer | Azure Certified Administrator
+Specialized AIOps &amp; DevOps Engineer | Building high-performance, automated, and observable AI/LLM serving platforms on Kubernetes | AWS Certified Solutions Architect | GCP Certified Associate Cloud Engineer | Azure Certified Administrator
 </h3>
 
 <p align="center">
